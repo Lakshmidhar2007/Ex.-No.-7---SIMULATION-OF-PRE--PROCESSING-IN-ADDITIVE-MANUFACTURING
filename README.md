@@ -48,7 +48,7 @@
 ![Screenshot 2024-12-04 103235](https://github.com/user-attachments/assets/8d58e371-b019-45d4-8955-1c4dfef11bd3)
 
 ### Name:LAKSHMIDHAR  N
-### Register Number: 24900046
+### Register Number: 212224230138
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
